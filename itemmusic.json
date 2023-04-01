@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Lana Del Rey"},
+  "SongTitle": {"S": "Video Games"},
+  "AlbumTitle": {"S": "Born To Die"},
+  "SongYear": {"S": "2012"}
+}

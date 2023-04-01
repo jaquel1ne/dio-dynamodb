@@ -1,0 +1,74 @@
+{
+    "Songs": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lana Del Rey"},
+                  "SongTitle": {"S": "Ultraviolence"},
+                  "AlbumTitle": {"S": "Ultraviolence"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lana Del Rey"},
+                  "SongTitle": {"S": "High By The Beach"},
+                  "AlbumTitle": {"S": "Honeymoon"},
+                  "SongYear": {"S": "2015"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lana Del Rey"},
+                  "SongTitle": {"S": "Love"},
+                  "AlbumTitle": {"S": "Lust For Life"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lana Del Rey"},
+                  "SongTitle": {"S": "The Next Best American Record"},
+                  "AlbumTitle": {"S": "Norman Fucking Rockwell!"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lana Del Rey"},
+                  "SongTitle": {"S": "Dance Till We Die"},
+                  "AlbumTitle": {"S": "Chemtrails Over The Country Club"},
+                  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lana Del Rey"},
+                  "SongTitle": {"S": "If You Lie Down With Me"},
+                  "AlbumTitle": {"S": "Blue Banisters"},
+                  "SongYear": {"S": "2021"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Lana Del Rey"},
+                  "SongTitle": {"S": "A&W"},
+                  "AlbumTitle": {"S": "Did You Know That There's a Tunnel Under Ocean Blvd"},
+                  "SongYear": {"S": "2023"}
+                }
+            }
+        }			
+      ]
+}
